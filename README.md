@@ -1,6 +1,6 @@
 ### Hye Yeon :frog:
 
-![Hye Yeon's Github Stats](https://github-readme-stats.vercel.app/api?username=chlgpdus921&show_icons=true&bg_color=45,F9ADBD,F6829B&title_color=ffffff&icon_color=B1298D)
+![Hye Yeon's Github Stats](https://github-readme-stats.vercel.app/api?username=chlgpdus921&show_icons=true&bg_color=45,F9ADBD,F68290,E99F9F,D16593&title_color=ffffff&icon_color=B1298D)
 
 [![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=chlgpdus921&layout=compact&theme=buefy&hide=python,Scss&title_color=000000)](https://github.com/anuraghazra/github-readme-stats)
 
