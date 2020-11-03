@@ -9,7 +9,7 @@
   - 2020 [Sound Mechanic](https://github.com/chlgpdus921/Sound-mechanic)
   - 2019 [JeonJu - Custom Recommended Travel App](https://github.com/JeonJuApp)
   - 2019 [HandWriting Bank](https://github.com/mobile-termproject/HandWriting_Bank)
-  - 2019 [Hologram IoT Service](https://github.com/Hologram-IoT-Service)
+  - 2019 [Hologram IoT Service](https://github.com/Jarvis-Home-IoT)
   - 2017 [Problem Bingo](https://github.com/ProblemBingo)
 
 <!--
