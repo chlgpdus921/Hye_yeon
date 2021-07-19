@@ -6,7 +6,7 @@
 
 - 🌱 I want to make an Automatic Translation system, so I am working on a project learning C#.
 - 👯 Collaboration project 
-  - 2021 Play Musical - NHN basecamp Project (Rookie Saecom TF)
+  - 2021 Play Musical
   - 2020 [Sound Mechanic](https://github.com/chlgpdus921/Sound-mechanic)
   - 2019 [JeonJu - Custom Recommended Travel App](https://github.com/JeonJuApp)
   - 2019 [HandWriting Bank](https://github.com/mobile-termproject/HandWriting_Bank)
